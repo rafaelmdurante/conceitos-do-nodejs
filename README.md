@@ -35,4 +35,4 @@ yarn test
 
 Mais informações sobre o desafio neste [link][1]
 
-[1]:https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8#31ceb4c127c343569fd1030a69aadc13
+[1]:https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8
